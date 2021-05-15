@@ -1,6 +1,6 @@
 <div> 
      <p>{{ title }}</p>
-     <p>{{ date }}</p>
+     <p>{{ date.toUTCString() }}</p>
      
      {% for tag in tags %}
         <p>{{ tag }}</p>
