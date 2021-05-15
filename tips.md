@@ -4,7 +4,7 @@
 * https://www.11ty.dev/docs/collections/
 
 * https://github.com/kohrongying/11ty-blog-starter/blob/master/src/_data/site.json
-
+* https://github.com/ixartz/Eleventy-Starter-Boilerplate
 
 * https://dev.to/t/11ty
 * https://11ty.rocks/
