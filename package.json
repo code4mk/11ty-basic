@@ -1,0 +1,26 @@
+{
+  "name": "11ty-basic",
+  "version": "1.0.0",
+  "description": "eleventy basic demo 21",
+  "main": ".eleventy.js",
+  "scripts": {
+    "build": "eleventy",
+    "watch": "eleventy --watch",
+    "serve": "eleventy --serve",
+    "start": "eleventy --serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code4mk/11ty-basic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code4mk/11ty-basic/issues"
+  },
+  "homepage": "https://github.com/code4mk/11ty-basic#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
